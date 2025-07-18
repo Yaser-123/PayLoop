@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "build": "echo 'No build process required'"
   },
   "dependencies": {
     "@arcjet/inspect": "^1.0.0-beta.7",

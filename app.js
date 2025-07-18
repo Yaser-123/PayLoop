@@ -42,6 +42,7 @@ app.get('/', (req, res) => {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PayLoop API - Smart Subscription Management</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%234299e1'/%3E%3Cpath d='M30 35h40v30H30z' fill='white'/%3E%3Ccircle cx='50' cy='50' r='8' fill='%234299e1'/%3E%3Cpath d='M35 45l10 10 20-20' stroke='white' stroke-width='3' fill='none'/%3E%3C/svg%3E">
     <style>
         * {
             margin: 0;
